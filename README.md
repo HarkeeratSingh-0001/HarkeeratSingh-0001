@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @HarkeeratSingh-0001
 - 👀 I’m interested in ... html
-- 🌱 I’m currently learning ... html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... harkeerats2006@gmail.com
+- 🌱 I’m currently learning ... html, css, c
 - 😄 Pronouns: ... his/him
-- ⚡ Fun fact: ... fri
+- ⚡ Fun fact: ... friendly
 - endly
 
 <!---
