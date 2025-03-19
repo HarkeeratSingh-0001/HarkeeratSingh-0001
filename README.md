@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarkeeratSingh-0001
-- 👀 I’m interested in ... html
+- 👀 I’m interested in ... Web dev
 - 🌱 I’m currently learning ... html, css, c
 - 😄 Pronouns: ... his/him
 - ⚡ Fun fact: ... friendly
